@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en,ru">
+	<head>
+		<meta charset="utf-8">
+		<title>Web-страница</title>
+		<link href="style.css" type="text/css" rel="stylesheet"></link>
+	</head>
+	<body>
+		<div>
+			<h1>Page 2</h1>
+		</div>	
+	</body>
+</html>
